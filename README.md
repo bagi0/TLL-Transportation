@@ -1,7 +1,11 @@
-# Bus-Transportation-System-Tallinn---ICS0008
-Web application for Bus Transportation System in Tallinn
+I have designed and developed a sophisticated web application tailored to meet the complex demands of the Bus Transportation System in Tallinn, Estonia. This cutting-edge application empowers end-users with the capability to seamlessly access and monitor the real-time whereabouts of an array of transportation modes, encompassing buses, trams, and trolley-buses.
 
+The core of this system harnesses the prowess of PHP scripting to seamlessly interact with a dynamic public API, facilitating the extraction and processing of real-time data. This meticulously crafted PHP code operates as the linchpin for data aggregation and dissemination.
 
-#Main file, transportation.php, db_connect.php and data.php
+Our frontend prowess further unfolds through the implementation of JavaScript, serving as the vessel through which we orchestrate the visualization and presentation of the precise geographic coordinates of these moving assets. These geographical data points are ingeniously rendered onto an interactive map, offering users an engaging and informative visual representation of the transportation network.
 
-#I have developed a web application for the Bus Transportation System in Tallinn, Estonia. This application enables customers to view the current location of various modes of transportation, such as buses, trams, and trolley-buses. To gather real-time data from the public API, I implemented PHP code. I utilized Javascript to visualize and present the bus location on a map. Additionally, HTML was used to structure the website, CSS for designing the interface, and Mysql and PHP for the backend authentication process.  To access the application, customers must first register and subsequently log in to view the real-time location of transportation systems operating in Tallinn. This enhances the user experience by providing up-to-date information on transportation schedules and routes.
+In terms of web structure, we employ HTML to meticulously craft the underlying framework, ensuring an elegant and well-organized digital presence. CSS takes center stage to bestow an aesthetically refined and intuitively navigable interface upon our application, thereby enriching the user experience.
+
+The heart of our application's functionality and data management resides in a sophisticated backend powered by the robust combination of MySQL and PHP. This dynamic duo oversees the critical task of user authentication. To access the full spectrum of application features, users are seamlessly guided through a process of initial registration, followed by secure login credentials verification.
+
+The cumulative result of these technical intricacies culminates in a seamless and futuristic user experience, allowing customers to stay abreast of the latest transportation schedules and routes with unparalleled precision. In essence, our system functions as an indispensable tool, elevating the efficiency and convenience of public transportation in Tallinn, Estonia, by delivering real-time insights and enhancing overall commuter satisfaction.
